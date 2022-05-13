@@ -277,9 +277,9 @@
 
 ### 哥哥-- g
 
-- group
+- grope
 
-  哥哥 roup 绳子
+  哥哥 rope 绳子
 
   ==v. 摸索==  try to do
 
@@ -377,6 +377,42 @@
   ==v. 总结==
   ==结束==
 
+### 表示人的所有后缀
+
+#### er
+
+- beginner
+
+- observer
+
+#### or 
+
+- doctor
+
+- collector 
+
+- instructor
+
+#### ist / ian
+
+- artist
+
+- journalist = reporter
+
+  ==记者==
+- dentist
+
+  ==牙医==
+
+- technician
+
+  ==技工==
+
+- vegetarian
+
+  ==素食主义者==
+
+
 ### sp = `死盼` --> 看
 
 - Suspect n./v.
@@ -426,11 +462,62 @@
 
 ## 谐音法
 
+- Japan
+
+  ==日本==
+
+- accountant
+
+  ac 挨个 count 数 ant 蚂蚁
+
+  挨个数蚂蚁的人
+
+  ==会计==
+
 - Frugal
 
-  腐乳糕
+  腐乳糕 --> 只吃腐乳糕就够了 --> 节俭
 
   ==节俭的==
+
+- exhaust
+
+  一个早死的
+
+  ==用尽，耗完==
+
+  `i have exhausted all my money`
+
+  - exhausted
+
+  ==精疲力尽的==
+
+- quest
+
+  快死他
+
+  ==请求，要求==
+
+  in quest of
+
+  ==请求 / 要求 ...==
+
+
+- flee
+
+  飞离
+
+  ==逃跑==
+
+- cease
+  
+  谁死
+
+  ==v. 终止，暂停==
+
+- champion
+
+  ==冠军==
 
 - Cease
 
@@ -446,7 +533,7 @@
 
 - Curse
 
-  客死
+  克死
 
   ==诅咒==
 
@@ -462,6 +549,19 @@
 
   ==笨重的，不灵活的==
 
+- ambulance
+
+  俺不能死
+
+  ==救护车==
+
+- evident
+
+  俺为等他
+
+  ==明显的，显而易见的==
+
+  `it is evident that...`
 
 - Integrate
 
@@ -517,8 +617,43 @@
 
 ## 形近对照法
 
+- brother bother
+
+  r 花
+
+  有花的都是兄弟，没有花的都是来干扰的
+
+  - bother
+
+  ==干扰，打扰==
+
+- topic tropic
+
+  r 花
+
+  - tropic 
+
+  热带拿花做主题
+
+  ==热带==
+
+- brush bush
+
+  - bush 
+
+  ==灌木丛==
+
+  - brush 
+
+  布什拿花当画笔
+
+  ==画笔==
 
 - Deprive Derive
+
+  - derive
+
+  `derive from`
 
   De 弟弟  river 河
   
@@ -526,20 +661,21 @@
 
   ==起源，来源==
 
+  - deprive
+
+  `deprive sb. of sth.`
+
   De 弟弟 p扑 river河
 
   弟弟扑倒河里
 
   ==剥夺，掠夺==
 
-
-
 - adopt adapt
 
   adopt ==v. 收养，采纳==
 
   adapt ==适应==
-
 
 - moral mortal
 
