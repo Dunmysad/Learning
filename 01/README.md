@@ -111,7 +111,7 @@
 
   cal 给xx打电话
 
-  ==平静== come down
+  ==平静== calm down
 
 - dim
 
@@ -293,7 +293,7 @@
 
   ==发光==
 
-  i hope that you have a glittering furture
+  `i hope that you have a glittering furture`
 
 - grace
   
@@ -343,7 +343,6 @@
 
   Deceiver -- ==欺骗==
 
-  
 - Perceive
 
   破媳妇
@@ -393,13 +392,18 @@
 
 - instructor
 
+  ==教师==
+
 #### ist / ian
 
 - artist
 
+  ==艺术家==
+
 - journalist = reporter
 
   ==记者==
+  
 - dentist
 
   ==牙医==
@@ -422,7 +426,6 @@
   ==v. 怀疑==
   ==n. 嫌疑犯==
   
-
 - Inspect
 
   往里看
@@ -445,14 +448,11 @@
 
   ==n.前景==
 
-  
 - Spectator
 
   看的人
 
   ==观众==
-
-
 
 - Retrospect
 
@@ -498,7 +498,7 @@
 
   ==请求，要求==
 
-  in quest of
+  `in quest of`
 
   ==请求 / 要求 ...==
 
@@ -518,12 +518,6 @@
 - champion
 
   ==冠军==
-
-- Cease
-
-  谁死
-
-  ==v.死亡，终止=
 
 - Chill
 
@@ -610,7 +604,7 @@
   ==v. 冲洗==
   
 - Splash
- 
+
   死不拉屎
 
   ==v. 飞溅==
@@ -645,7 +639,7 @@
 
   - brush 
 
-  布什拿花当画笔
+  布什==(bush)==拿花当画笔==(brush)==
 
   ==画笔==
 
