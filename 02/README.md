@@ -12,7 +12,7 @@
 
     ==同意，赞同==
 
-    approved of sb. / sth.
+    `approved of sb. / sth.`
 
     C. ap`pealed`
 
@@ -23,7 +23,7 @@
         - ac`company` ==陪伴==
 
         - ac`cess` <--走  
-            
+          
             ==走近，接近==
         
         - ac`count` <-- 一再的数
@@ -76,7 +76,8 @@
 
         `Our contract has ceased`
 
-                
+        ​        
+
     C. appointment
 
     一再的指着
