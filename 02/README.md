@@ -430,3 +430,298 @@ C. define
 D. delight
 
 ==高兴==
+
+- 补充：fin --> ==限制，范围==
+
+  - infinite
+
+  ==无限的==
+
+  - define
+
+  不同的范围分开
+
+  ==解释==
+
+  ==给...下定义==
+
+  - definite
+
+  ==确定的==
+
+  - definition
+
+  ==定义==
+
+  - refine
+
+  再次 好的
+
+  ==提炼，精炼==
+
+  - confine
+
+  所有的一起都限制了
+
+  ==限制==
+
+- 补充：de --> 往下 / 分开
+
+  - depart
+
+  ==离开==
+
+  - desire
+
+  ==渴望==
+
+  - delight
+
+  ==高兴==
+
+  - defend
+
+  ==防御==
+
+  - offend
+
+  ==冒犯==
+
+---
+
+A. transfer
+
+==转移==
+
+B. transformed
+
+==改变==
+
+C. transmitted
+
+==传递==
+
+D. transported
+
+==运输==
+
+- 补充：port
+
+  - passport
+
+  ==护照==
+
+  - support
+
+  ==支持==
+
+  - porter
+
+  ==搬运工==
+
+---
+
+
+A. glanced --> glanced at 撇
+
+B. delayed
+
+==耽误，推迟==
+
+C. vanished
+
+==消失不见==
+
+D. inspired
+
+==鼓励==
+
+  - 词根 spir- 意思是“呼吸”
+
+    - expire
+
+    ==终止==
+
+    - perspire
+
+    每一个都在呼吸
+
+    ==流汗==
+
+    - spirit
+
+    ==精神==
+
+- 补充：“看”的单词
+
+  - gape
+
+  ape 猿猴
+
+  哥哥看猿猴
+
+  ==吃惊的看==
+
+  - peep
+
+  ==偷看==
+
+  - overlook
+
+  ==忽视==
+
+  ==俯视==
+
+- 补充：vis
+
+  - visit
+
+  ==参观==
+
+  - visible
+
+  ==可视的==
+
+  - vision
+
+  ==视力==
+
+  ==风景==
+
+  - television
+
+  tele --> 远的
+
+  ==电视==
+
+  - previse
+
+  ==预言==
+
+  - revise
+
+  ==修改，校对==
+
+  - review
+
+  ==复习==
+
+  - visilize
+
+  使可以看见
+
+  ==想象，设想==
+
+---
+
+A. adapt
+
+==适应==
+
+B. bring
+
+C. receive
+
+D. adopt
+
+==采取，采纳==
+
+==收养==
+
+- adept
+
+==娴熟的，熟练的==
+
+
+- 补充：ceive
+
+  - deceive
+
+  ==欺骗==
+
+  - perceive
+
+  ==感觉，察觉== --> sence
+
+  - conceive
+
+  ==构想，设想==
+
+---
+
+A. arouse
+
+==惹起，引起==
+
+B. arise
+
+==出现==
+
+C. raise
+
+==举起==
+
+D. rise
+  
+  ri/se
+
+  ==升起==
+
+
+- tedious
+
+==无聊的，乏味的==
+
+  - tedium
+  
+  ==无聊，乏味==
+
+- embarrassing
+
+==尴尬的==
+
+- 补充：en
+
+  - enable
+
+  ==使能够==
+
+  - encourage
+
+  ==激励，鼓励==
+
+  - enlarge
+
+  ==扩大==
+
+  - enclose
+
+  ==密封==
+
+  - encounter(counterpart)
+
+  ==遇见，遭遇==
+
+  - entitle
+
+  ==授权==
+
+  - frighten
+
+  ==吓唬==
+
+  - enforce
+
+  ==强迫==
+
+  - lengthen
+
+  ==延长==
+
+  - lessen 
+
+  ==减少==
+
+  - strengthen
+
+  ==加强==
